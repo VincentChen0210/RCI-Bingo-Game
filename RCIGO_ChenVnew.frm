@@ -321,6 +321,9 @@ Attribute VB_GlobalNameSpace = False
 Attribute VB_Creatable = False
 Attribute VB_PredeclaredId = True
 Attribute VB_Exposed = False
+'Author: Vincent Chen
+'Date Created: May 6, 2018
+
 Option Explicit
 Const MAX = 90
 Const INTERVAL = 100
