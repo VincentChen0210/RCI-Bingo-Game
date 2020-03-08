@@ -16,7 +16,7 @@ The program was created with only functions, in addition to a small usage of a c
 House scoring triggers when the game has detected that the player has a wining row/column/diagonal, but the player has not called RCIGO (aka BINGO).
 This allows the player try to score more points, as the game will continue. However, from this point on the player is playing against the computer:
 the longer the game continues and the more cards the player calls, there is chance that the computer/'AI' will detect that the player is trying to ramp up their score.
-The chance will continue to climb, until the player decides to end the game by calling "RCIGO" or the computer catches the player. In the case that the player is caught,
+The chance will continue to climb, until the player decides to end the game by calling "RCIGO" or when the computer catches the player. In the case that the player is caught,
 the score that the player would have earned at that time will automatically be saved under the computer's name.
 
 PS: "RCIGO" is named after the author's high school, Riverdale Collegiate Institute.
